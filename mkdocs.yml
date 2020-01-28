@@ -1,6 +1,8 @@
 site_name: Domain Pass-Through - Citrix Receiver for Linux 13.10
 site_description: Domain Pass-Through - Citrix Receiver for Linux 13.10
 site_title: Developer Docs
+site_url: https://developer-docs.citrix.com
+
 
 # Copyright
 copyright: 'Copyright &copy; 1999-2019 Citrix Systems, Inc. All rights reserved. '
@@ -61,3 +63,4 @@ nav:
 - Credential Insertion SDK: credential-insertion-sdk.md
 - API Examples: api-examples.md
 - Launch an app/desktop: launch-application-desktop.md
+- Questions?: https://discussions.citrix.com/forum/1385-citrix-developer-exchange/
